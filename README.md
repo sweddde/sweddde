@@ -73,5 +73,5 @@ Building data platforms, ML infrastructure, and analytical pipelines in producti
 
 ## 📊 GitHub Stats
 
-![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=ВАШ_ЛОГИН&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_ЛОГИН&layout=compact&theme=dark&hide_border=true)
+![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=sweddde&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweddde&layout=compact&theme=dark&hide_border=true)
